@@ -1,4 +1,4 @@
-# digitalskola_project_1
+# DigitalSkola_Fast Track Data Engineer_Project 1
 First simple ETL project
 
 This project runs:
